@@ -2,6 +2,7 @@
 	echo'<html>
 			<head>
 				<title>Статистика</title>
+				<meta charset="utf-8">
 				<link rel="stylesheet" href="css/style.css"/>
 			</head>
 			<body>
