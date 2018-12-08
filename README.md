@@ -1,5 +1,5 @@
 # Longcat-sorting
-тестовое в ЛонгКэт
+Статистика олимпийских игр, сортировка
 
 # Demo
 http://v987994k.beget.tech/longcat/index.php
