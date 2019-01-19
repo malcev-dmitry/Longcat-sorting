@@ -2,8 +2,8 @@
     echo'<meta charset="utf-8">';
     $db_host='localhost';
     $db_name='statistica';
-    $db_username='root';
-    $db_password='root';
+    $db_username='Your_Name';
+    $db_password='Your_Password';
     $mysqli = new mysqli($db_host,$db_username,$db_password,$db_name);
     if (isset($_GET['del'])) {
         if ($_GET['id'] == 0){
