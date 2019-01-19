@@ -1,8 +1,8 @@
 <?php
     $db_host='localhost';
     $db_name='statistica';
-    $db_username='root';
-    $db_password='root';
+    $db_username='Your_Name';
+    $db_password='Your_Password';
     $mysqli = new mysqli($db_host,$db_username,$db_password,$db_name);
     $mysqli->set_charset('utf8'); 
     if ($mysqli->connect_error) {
