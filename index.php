@@ -11,8 +11,8 @@
 						<table align="center" width="90%" border="1px" id="myTable" class="tablesorter">';
 	$db_host='localhost';
 	$db_name='statistica';
-	$db_username='root';
-	$db_password='root';
+	$db_username='Your_Name';
+    	$db_password='Your_Password';
 	if(!$_GET['key'])
 		$key = "zoloto DESC, serebro DESC, bronza DESC";
 	else
